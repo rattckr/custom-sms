@@ -1,4 +1,4 @@
-# MR.BELL
+# Developer : Arquiteto
 
 from requests import Session
 import re, sys
@@ -23,10 +23,10 @@ try:
          `Y$$b.
             `"Y$b._
                 `""""
-|Version   : V.1(Beta)      |
+|Version   : V.1            |
 |Team      : THE NEXT LEVEL |
-|Create    : Mr.Bell        |
-| Free SMS FOR ALL OPERATOR |
+|Create    : Arquiteto      |
+|Custom SMS FOR ALL OPERATOR|
 ############################## \n \033[91m''')
 
 	
